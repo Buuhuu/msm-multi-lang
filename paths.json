@@ -1,5 +1,7 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/test/:/",
+    "/content/test/en/:/",
+    "/content/test/de/:/de/"
   ]
 }
