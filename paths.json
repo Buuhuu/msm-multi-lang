@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/test/:/",
-    "/content/test/en/:/",
+    "/content/test/en/:/en/",
     "/content/test/de/:/de/"
   ]
 }
